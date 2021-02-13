@@ -1,2 +1,2 @@
-# ML_Regression_Python
-Machine Learning example by using sklearn library
+# Machine Learning - Regression
+Regression Analysis example by using sklearn library 
